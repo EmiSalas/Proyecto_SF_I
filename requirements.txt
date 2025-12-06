@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy 
+matplotlib.pyplot
+plotly.express
+datetime
+funciones_SFI
+PIL
+identidad_aq
+comen_sectores

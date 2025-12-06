@@ -1,0 +1,18 @@
+[theme]
+# Colores Alma Quant - Dorado Suave y Aguamarina
+
+# 1. Color de Acento (Aguamarina Suave del logo)
+primaryColor="#4EB593"
+
+# 2. Fondo Secundario (Dorado Suave/Beige del logo) para la barra lateral
+secondaryBackgroundColor="#F7EAC4"
+
+# 3. Fondo principal (Blanco Puro)
+backgroundColor="#FFFFFF"
+
+# 4. Color del texto principal (Azul Marino Oscuro del logo, legible sobre fondos claros)
+textColor="#1A374D"
+
+# Fuente: (sans serif es ideal para datos)
+font="sans serif"
+
