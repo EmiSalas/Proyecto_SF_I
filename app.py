@@ -9,6 +9,7 @@ import funciones_SFI as sfi
 from PIL import Image
 from identidad_aq import identidad_AQ
 import comen_sectores as comS
+from black_litterman import modelo_black_litterman
 
 def aumentar_tamaño_fuente():
     st.markdown("""
@@ -529,4 +530,4 @@ elif "portafolio" in menu:
 # ---------------------------
 
 elif "Modelo de B-L" in menu:
-    st.header("Proximamente....")
+    modelo_black_litterman()
